@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<body>
+  <signals>
+    <signal source="2" tokens="20, 21, 22, 23, 24, 25" type="" subtype=""/>
+    <signal source="4" tokens="50, 51" type="" subtype=""/>
+    <signal source="5" tokens="56, 55" type="" subtype=""/>
+    <signal source="7" tokens="82, 83, 84, 85, 86, 87, 88, 89, 90" type="" subtype=""/>
+    <signal source="9" tokens="106, 101" type="" subtype=""/>
+    <signal source="19" tokens="98, 99, 100" type="" subtype=""/>
+  </signals>
+</body>

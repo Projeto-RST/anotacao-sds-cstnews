@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<body>
+  <signals>
+    <signal source="2" tokens="8, 9" type="" subtype=""/>
+    <signal source="8" tokens="87, 79" type="" subtype=""/>
+    <signal source="15" tokens="145, 154, 155" type="" subtype=""/>
+    <signal source="20" tokens="219, 221" type="" subtype=""/>
+    <signal source="21" tokens="222" type="" subtype=""/>
+    <signal source="23" tokens="247, 246, 238, 239" type="" subtype=""/>
+    <signal source="26" tokens="272, 273, 270, 271" type="" subtype=""/>
+    <signal source="31" tokens="312, 309, 310" type="" subtype=""/>
+    <signal source="33" tokens="328" type="" subtype=""/>
+    <signal source="35" tokens="346, 347, 348, 349, 350" type="" subtype=""/>
+    <signal source="38" tokens="376" type="" subtype=""/>
+    <signal source="40" tokens="400" type="" subtype=""/>
+    <signal source="42" tokens="426" type="" subtype=""/>
+    <signal source="44" tokens="438" type="" subtype=""/>
+    <signal source="50" tokens="499" type="" subtype=""/>
+    <signal source="55" tokens="547, 548, 551, 552, 553, 554, 557, 558" type="" subtype=""/>
+    <signal source="57" tokens="576, 574" type="" subtype=""/>
+    <signal source="59" tokens="584" type="" subtype=""/>
+    <signal source="65" tokens="639" type="" subtype=""/>
+    <signal source="71" tokens="697, 698, 699, 702" type="" subtype=""/>
+  </signals>
+</body>

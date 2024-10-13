@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<body>
+  <signals>
+    <signal source="2" tokens="19, 21" type="" subtype=""/>
+    <signal source="3" tokens="32, 33, 34, 35, 36, 24, 25, 26, 27, 28, 29, 30, 31" type="" subtype=""/>
+    <signal source="5" tokens="43" type="" subtype=""/>
+    <signal source="11" tokens="125, 126, 127" type="" subtype=""/>
+    <signal source="14" tokens="177, 171" type="" subtype=""/>
+    <signal source="16" tokens="185, 191" type="" subtype=""/>
+    <signal source="18" tokens="200, 198" type="" subtype=""/>
+    <signal source="20" tokens="209, 223" type="" subtype=""/>
+    <signal source="22" tokens="252, 253, 254" type="" subtype=""/>
+    <signal source="23" tokens="260" type="" subtype=""/>
+    <signal source="24" tokens="273, 274, 275" type="" subtype=""/>
+    <signal source="28" tokens="321, 322, 323, 324, 325, 326, 318, 319" type="" subtype=""/>
+    <signal source="31" tokens="358" type="" subtype=""/>
+    <signal source="33" tokens="377, 379, 380" type="" subtype=""/>
+    <signal source="35" tokens="400, 401, 399" type="" subtype=""/>
+    <signal source="50" tokens="606" type="" subtype=""/>
+    <signal source="51" tokens="618" type="" subtype=""/>
+  </signals>
+</body>

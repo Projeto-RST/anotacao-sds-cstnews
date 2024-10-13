@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<body>
+  <signals>
+    <signal source="2" tokens="12, 14" type="" subtype=""/>
+    <signal source="4" tokens="23, 24, 25, 26, 27, 28" type="" subtype=""/>
+    <signal source="6" tokens="32, 33, 34, 35, 36, 31" type="" subtype=""/>
+    <signal source="12" tokens="104, 105" type="" subtype=""/>
+    <signal source="15" tokens="122, 123, 132, 131" type="" subtype=""/>
+    <signal source="18" tokens="160, 161, 162, 158, 159" type="" subtype=""/>
+    <signal source="21" tokens="192, 193, 194, 195, 196, 197, 198, 189, 190, 191" type="" subtype=""/>
+    <signal source="24" tokens="216, 211" type="" subtype=""/>
+    <signal source="27" tokens="235, 230, 231" type="" subtype=""/>
+    <signal source="28" tokens="236, 237, 239, 242, 246" type="" subtype=""/>
+    <signal source="32" tokens="281, 282, 284, 285, 286, 287" type="" subtype=""/>
+    <signal source="34" tokens="297, 298, 292, 293" type="" subtype=""/>
+    <signal source="38" tokens="352, 353, 354, 333, 338, 346, 347, 348, 349, 350, 351" type="" subtype=""/>
+    <signal source="44" tokens="427, 428, 429, 430, 431, 432, 433, 434" type="" subtype=""/>
+    <signal source="45" tokens="448, 449, 442, 443, 446, 447" type="" subtype=""/>
+    <signal source="48" tokens="474, 475, 476, 477, 478, 479" type="" subtype=""/>
+    <signal source="51" tokens="497, 498, 499" type="" subtype=""/>
+    <signal source="56" tokens="536, 538" type="" subtype=""/>
+    <signal source="60" tokens="570, 566" type="" subtype=""/>
+    <signal source="70" tokens="696, 700, 695" type="" subtype=""/>
+    <signal source="122" tokens="522, 523, 524, 519" type="" subtype=""/>
+    <signal source="125" tokens="564, 565" type="" subtype=""/>
+    <signal source="133" tokens="723, 724, 725, 726, 727" type="" subtype=""/>
+    <signal source="136" tokens="704, 707, 703" type="" subtype=""/>
+    <signal source="146" tokens="600, 601, 598, 599" type="" subtype=""/>
+  </signals>
+</body>

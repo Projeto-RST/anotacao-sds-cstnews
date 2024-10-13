@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<body>
+  <signals>
+    <signal source="10" tokens="120, 119" type="" subtype=""/>
+    <signal source="15" tokens="184, 185, 186, 187, 188, 189" type="" subtype=""/>
+    <signal source="17" tokens="203, 204, 205, 206" type="" subtype=""/>
+    <signal source="25" tokens="323" type="" subtype=""/>
+    <signal source="27" tokens="337, 338, 339, 340" type="" subtype=""/>
+    <signal source="29" tokens="353, 355" type="" subtype=""/>
+    <signal source="31" tokens="377" type="" subtype=""/>
+    <signal source="34" tokens="401, 403" type="" subtype=""/>
+    <signal source="36" tokens="414" type="" subtype=""/>
+    <signal source="46" tokens="486" type="" subtype=""/>
+    <signal source="48" tokens="494" type="" subtype=""/>
+    <signal source="53" tokens="534" type="" subtype=""/>
+    <signal source="56" tokens="561" type="" subtype=""/>
+    <signal source="60" tokens="585, 586, 587, 588, 589, 590, 591, 592, 593, 594" type="" subtype=""/>
+    <signal source="80" tokens="192" type="" subtype=""/>
+    <signal source="84" tokens="242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255" type="" subtype=""/>
+    <signal source="85" tokens="257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267" type="" subtype=""/>
+    <signal source="95" tokens="410" type="" subtype=""/>
+    <signal source="112" tokens="584" type="" subtype=""/>
+    <signal source="114" tokens="599" type="" subtype=""/>
+  </signals>
+</body>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<body>
+  <signals>
+    <signal source="3" tokens="25, 26, 27" type="" subtype=""/>
+    <signal source="8" tokens="60" type="" subtype=""/>
+    <signal source="10" tokens="67, 69, 70, 74, 75" type="" subtype=""/>
+    <signal source="14" tokens="112, 105" type="" subtype=""/>
+    <signal source="16" tokens="120, 121, 122" type="" subtype=""/>
+    <signal source="19" tokens="140" type="" subtype=""/>
+    <signal source="23" tokens="170, 171, 172, 173, 174" type="" subtype=""/>
+    <signal source="25" tokens="179, 180" type="" subtype=""/>
+    <signal source="28" tokens="210" type="" subtype=""/>
+    <signal source="32" tokens="264, 256, 258, 261" type="" subtype=""/>
+    <signal source="36" tokens="287" type="" subtype=""/>
+  </signals>
+</body>
